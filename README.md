@@ -1,4 +1,4 @@
-# Typing-Tutor-Game
+# Typing Tutor Game
 Typing games are a wonderful way to improve typing speed, focus and accuracy and can be tailored to current typing abilities.
 This program not just only make the user amused by the game but also increases the typing speed of the user helping the user in real-life applications.
 
